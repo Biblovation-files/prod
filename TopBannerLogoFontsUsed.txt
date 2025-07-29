@@ -1,0 +1,14 @@
+University Libraries = Georgia
+online catalog = Georgia
+POWERED BY = Adobe Gothic Standard
+The koha logo is just a bitmap pasted into the PNG file
+UNIVERSITY OF HARTFORD = Tratex Svart
+
+<!-- 
+Top Banner Logo - 3600 x 255
+University Libraries = Georgia
+online catalog = Georgia
+POWERED BY = Adobe Gothic Standard
+The koha logo is just a bitmap pasted into the PNG file
+UNIVERSITY OF HARTFORD = Tratex Svart 
+-->
